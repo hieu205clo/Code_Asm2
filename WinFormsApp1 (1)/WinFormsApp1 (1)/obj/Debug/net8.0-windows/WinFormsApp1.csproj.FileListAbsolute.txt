@@ -1,0 +1,57 @@
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Calculator.resources
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.login.resources
+C:\Users\Administrator\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Pay_Page.resources
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Calculator.resources
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.login.resources
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Pay_Page.resources
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\quang\Documents\Zalo Received Files\WinFormsApp1 (2)\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.Calculator.resources
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.login.resources
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.Pay_Page.resources
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Admin\Downloads\WinFormsApp1 (1)\WinFormsApp1 (1)\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
